@@ -1,0 +1,10 @@
+com.qualitestgroup.multiplan.kdt
+com.qualitestgroup.multiplan.kdt.exceptions
+com.qualitestgroup.multiplan.keywords.common
+com.qualitestgroup.multiplan.keywords.fnx
+com.qualitestgroup.multiplan.util
+com.qualitestgroup.multiplan.util.datadriver
+com.qualitestgroup.multiplan.util.db
+com.qualitestgroup.multiplan.util.fileio
+com.qualitestgroup.multiplan.util.logging
+com.qualitestgroup.multiplan.util.reporting
